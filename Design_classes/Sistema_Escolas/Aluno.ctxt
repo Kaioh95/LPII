@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Aluno
+comment1.params=
+comment1.target=Aluno()
+comment2.params=n1\ n2
+comment2.target=void\ set_prova1(double,\ double)
+comment3.params=n1\ n2
+comment3.target=void\ set_prova2(double,\ double)
+comment4.params=
+comment4.target=double\ calcularMedia()
+numComments=5

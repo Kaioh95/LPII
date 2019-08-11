@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Turma
+comment1.params=
+comment1.target=Turma()
+comment1.text=\n\ Ccnstrutor\ para\ objetos\ da\ classe\ Turma\n
+comment2.params=prova1Parte1\ prova1Parte2\ prova2Parte1\ prova2Parte2
+comment2.target=void\ set_aluno1(double,\ double,\ double,\ double)
+comment3.params=prova1Parte1\ prova1Parte2\ prova2Parte1\ prova2Parte2
+comment3.target=void\ set_aluno2(double,\ double,\ double,\ double)
+comment4.params=prova1Parte1\ prova1Parte2\ prova2Parte1\ prova2Parte2
+comment4.target=void\ set_aluno3(double,\ double,\ double,\ double)
+comment5.params=
+comment5.target=double\ calcularMedia()
+numComments=6

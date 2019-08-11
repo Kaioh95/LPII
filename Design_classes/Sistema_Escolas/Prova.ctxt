@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Prova
+comment1.params=
+comment1.target=Prova()
+comment1.text=\n\ Ccnstrutor\ para\ objetos\ da\ classe\ Turma\n
+comment2.params=nota1\ nota2
+comment2.target=Prova(double,\ double)
+comment3.params=notaParte1
+comment3.target=void\ set_notaParte1(double)
+comment4.params=notaParte2
+comment4.target=void\ set_notaParte2(double)
+comment5.params=
+comment5.target=double\ calcularNotaTotal()
+numComments=6
