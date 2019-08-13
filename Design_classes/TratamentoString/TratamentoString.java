@@ -19,8 +19,21 @@ public class TratamentoString
     }
     public void contaPalavras(){
         String[] strSplited = str.split(" ");
+        HashMap<String, Integer> cont = new HashMap<String, Integer>();
+        Integer number;
+        
         for(String aux: strSplited){
-            System.out.println(aux);
+            if(cont.containsKey(aux)){
+                number = cont.get(aux);
+                cont.replace(aux, number, number+1);
+            }
+            else{
+                cont.put(aux, 1);
+            }
         }
+        for(String aux: cont.keySet()){
+            System.out.println(aux+": "+cont.get(aux));
+        }
+        cont.clear();
     }
 }
